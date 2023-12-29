@@ -9,7 +9,7 @@ A repository for submitting your AR filters created using SparkAR Studio for the
 Feel free to reach out to the maintainers if you feel stuck, or wish to report someone.
 
 ## Reviewers
-@dubeyayushi, @Anshikaa10, @deepaliphogat, @himanshi027, @radhikaag
+@dubeyayushi, @Anshikaa10, @deepaliphogat, @himanshi027, @radhikaa-gupta
 
 ## CONTRIBUTING TO THIS PROJECT
 
